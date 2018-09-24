@@ -209,6 +209,12 @@
             "SPI_MISO": "D12",
             "SPI_CLK": "D13",
             "SPI_CS": "D9"
+        },
+        "BINBEAT_V1_0": {
+            "SPI_MOSI": "MOSI_SD",
+            "SPI_MISO": "MISO_SD",
+            "SPI_CLK": "SCLK_SD",
+            "SPI_CS": "CS_SD"
         }
     }
 }
