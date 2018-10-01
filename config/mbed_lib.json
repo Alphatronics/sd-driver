@@ -210,7 +210,7 @@
             "SPI_CLK": "D13",
             "SPI_CS": "D9"
         },
-        "BINBEAT_V1_0": {
+        "MODULE_BINBEAT_V1": {
             "SPI_MOSI": "MOSI_SD",
             "SPI_MISO": "MISO_SD",
             "SPI_CLK": "SCLK_SD",
